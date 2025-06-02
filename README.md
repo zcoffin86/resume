@@ -18,44 +18,70 @@ Dedicated software engineer with over a decade of experience delivering scalable
 **Optera, Boulder, CO (Remote)**
 *June 2024 – April 2025*
 
-* Delivered key features on schedule by breaking down multi-sprint implementations with an emphasis on system resilience and clean architecture.
-* Created standardized conventions for testing, CI/CD pipelines, and access control, reducing onboarding time for new developers.
-* Facilitated refinement sessions to translate business needs into actionable technical tasks, improving story clarity and throughput.
-* Mentored junior and mid-level engineers, contributing to an increase in team velocity.
-* Diagnosed and resolved production incidents, maintaining service uptime.
+* Developed modular, accessible features for a large ESG platform using **Next.js**, **TypeScript**, and **Node.js**.
+* Integrated and collaborated on **RESTful APIs** and **PostgreSQL** data models to support sustainability reporting workflows.
+* Improved deployment reliability by enhancing CI/CD pipelines with **GitHub Actions** and **Docker**.
+* Mentored junior engineers and contributed to incident response efforts to maintain system uptime and performance.
+
+#### Technologies
+
+`TypeScript` • `Next.js` • `React` • `Node.js` • `PostgreSQL` • `REST APIs`
+`AWS` (Lambda, etc.) • `Docker` • `Jest` • `Cypress` • `React Testing Library`
+`GitHub Actions` • `CircleCI` • `Git` • `CI/CD` • `Postman`
 
 ### Software Engineer 3
 
 **GlobalVetLINK, Ames, IA**
 *October 2017 – 2024*
 
-* Led implementation of customer-facing features used by veterinary professionals nationwide.
-* Supported long-term architectural improvements by documenting legacy workflows and recommending scalable alternatives.
-* Guided code reviews and mentored junior developers, leading to higher test coverage and reduced bug recurrence.
-* Participated in sprint planning and release coordination, contributing to consistent delivery cadence over multiple years.
-* Resolved critical bugs in regulatory software with turnaround times under 24 hours.
+* Built customer-facing features and backend services in a **Java**, **Grails**, and **Groovy** monolith with **PostgreSQL** and **MongoDB**.
+* Designed and maintained **REST APIs** for both internal tools and external integrations, with a focus on consistency and cross-team alignment.
+* Automated legacy cleanup and data migrations using **Node.js** and **Groovy** scripts.
+* Improved developer experience by enhancing CI/CD processes and writing onboarding and architectural documentation.
+* Led test automation efforts using **Spock**, **ReadyAPI**, **Cypress**, and **React Testing Library** to boost test coverage and reduce regressions.
+* Worked closely with PMs, QA, and engineers to translate regulatory requirements into reliable software.
+* Assisted in integrating **OAuth** and **JWT** authentication (via **Spring Security**) into a legacy **Grails** platform, supporting secure access control across modern and legacy systems.
+* Mentored junior developers and maintained a consistent delivery cadence through active sprint and release planning.
+
+#### Technologies
+
+`Java` • `Grails` • `Groovy` • `Node.js` • `React` • `PostgreSQL` • `MongoDB`
+`REST APIs` • `AWS` (S3, ECS, CloudWatch, etc.) • `Docker`
+`Spock` • `Cypress` • `React Testing Library` • `ReadyAPI` • `OAuth` • `JWT`
+`CI/CD` • `Postman` • `Git` • `CircleCI`
 
 ### Applications Engineer II – AV/VR Systems
 
 **Mechdyne Corporation, Marshalltown, IA**
 *January 2011 – May 2017*
 
-* Developed custom AV control systems (Crestron, AMX, Extron, etc.) for enterprise and academic clients.
-* Built responsive interfaces for VR and telepresence platforms, improving usability and driving consistently high user satisfaction.
-* Maintained and enhanced Java-based visual calibration software.
-* Coordinated firmware upgrades across vendors to meet project specs and deployment deadlines.
-* Produced comprehensive technical documentation for international hardware/software integrations.
+* Designed and deployed custom AV control systems using **Crestron**, **AMX**, and **Extron** platforms (C-style embedded scripting) for enterprise and higher-ed environments.
+* Built responsive operator interfaces for immersive **VR** and **telepresence** systems, enhancing usability and reducing support overhead.
+* Maintained and extended internal **Java**-based tools for display calibration, diagnostics, and system tuning.
+* Integrated hardware and coordinated multi-vendor **firmware upgrades** to meet deployment requirements and ensure long-term operability.
+* Authored clear, technical documentation to support client and internal teams in post-deployment maintenance and troubleshooting.
+
+#### Technologies & Protocols
+
+`Java` • `Crestron` • `AMX` • `Extron` • `VR/AR Interfaces` • `Firmware Integration`
+`Linux` • `Windows` • `Control Systems` • `Technical Documentation`
+Communication: `RS-232` • `TCP/IP` • `IR` • `Relay Control`
 
 ### Student IT Assistant
 
 **Department of Agronomy, Iowa State University, Ames, IA**
 *2009 – 2011*
 
-* Provided front-line IT support for the department's faculty, staff, and students.
-* Managed and secured Active Directory resources, improving reliability and reducing downtime.
-* Deployed and maintained lab and classroom systems including Linux and Windows workstations.
-* Facilitated weekly backup procedures to ensure data integrity and recoverability.
-* Helped transition class resources to centralized digital platforms.
+* Delivered hands-on support for faculty, staff, and lab environments across a mixed-OS ecosystem.
+* Managed **Active Directory** resources including user accounts, group policies, and access controls.
+* Deployed, imaged, and maintained **Windows** and **Linux** workstations for classrooms and research labs.
+* Monitored backup systems and verified recovery procedures to safeguard institutional data.
+* Assisted in migrating departmental course materials to centralized **digital learning platforms**.
+
+#### Technologies
+
+`Windows` • `Linux` • `Active Directory` • `Group Policy` • `Backup Systems`
+`Digital Learning Platforms` • `IT Support` • `Lab Maintenance`
 
 ---
 
@@ -64,15 +90,6 @@ Dedicated software engineer with over a decade of experience delivering scalable
 **B.S. in Computer Engineering**
 Iowa State University, Ames, IA
 *2004 – 2010*
-
----
-
-## Technology Summary
-
-* **Programming/Languages:** Java, TypeScript, JavaScript, Groovy, React, Next.js, C, C++, C#, XML, HTML, CSS
-* **Frameworks & Tools:** Grails (Spring Boot-based), Docker, AWS, VS Code, Jira, Google Workspace, LibreOffice/MS Office, GIMP
-* **Source Control:** Git/GitHub, Mercurial, SVN, CVS
-* **Operating Systems:** Windows, Linux (Ubuntu, Fedora / Red Hat, CentOS), macOS
 
 ---
 
