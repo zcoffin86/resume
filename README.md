@@ -25,9 +25,7 @@ Dedicated software engineer with over a decade of experience delivering scalable
 
 #### Technologies
 
-`TypeScript` • `Next.js` • `React` • `Node.js` • `PostgreSQL` • `REST APIs`
-`AWS` (Lambda, etc.) • `Docker` • `Jest` • `Cypress` • `React Testing Library`
-`GitHub Actions` • `CircleCI` • `Git` • `CI/CD` • `Postman`
+`TypeScript` • `Next.js` • `React` • `Node.js` • `PostgreSQL` • `REST APIs` • `AWS` (Lambda, etc.) • `Docker` • `Jest` • `Cypress` • `React Testing Library` • `GitHub Actions` • `CircleCI` • `Git` • `CI/CD` • `Postman`
 
 ### Software Engineer 3
 
@@ -45,10 +43,7 @@ Dedicated software engineer with over a decade of experience delivering scalable
 
 #### Technologies
 
-`Java` • `Grails` • `Groovy` • `Node.js` • `React` • `PostgreSQL` • `MongoDB`
-`REST APIs` • `AWS` (S3, ECS, CloudWatch, etc.) • `Docker`
-`Spock` • `Cypress` • `React Testing Library` • `ReadyAPI` • `OAuth` • `JWT`
-`CI/CD` • `Postman` • `Git` • `CircleCI`
+`Java` • `Grails` • `Groovy` • `Node.js` • `React` • `PostgreSQL` • `MongoDB` • `REST APIs` • `AWS` (S3, ECS, CloudWatch, etc.) • `Docker` • `Spock` • `Cypress` • `React Testing Library` • `ReadyAPI` • `OAuth` • `JWT` • `CI/CD` • `Postman` • `Git` • `CircleCI`
 
 ### Applications Engineer II – AV/VR Systems
 
@@ -63,9 +58,9 @@ Dedicated software engineer with over a decade of experience delivering scalable
 
 #### Technologies & Protocols
 
-`Java` • `Crestron` • `AMX` • `Extron` • `VR/AR Interfaces` • `Firmware Integration`
-`Linux` • `Windows` • `Control Systems` • `Technical Documentation`
-Communication: `RS-232` • `TCP/IP` • `IR` • `Relay Control`
+`Java` • `Crestron` • `AMX` • `Extron` • `VR/AR Interfaces` • `Firmware Integration` • `Linux` • `Windows` • `Control Systems` • `Technical Documentation`
+
+Protocols: `RS-232` • `TCP/IP` • `UDP` • `IR` • `Relay Control` • `LDAP`
 
 ### Student IT Assistant
 
@@ -78,10 +73,9 @@ Communication: `RS-232` • `TCP/IP` • `IR` • `Relay Control`
 * Monitored backup systems and verified recovery procedures to safeguard institutional data.
 * Assisted in migrating departmental course materials to centralized **digital learning platforms**.
 
-#### Technologies
+#### Technologies & Skills
 
-`Windows` • `Linux` • `Active Directory` • `Group Policy` • `Backup Systems`
-`Digital Learning Platforms` • `IT Support` • `Lab Maintenance`
+`Windows` • `Linux` • `Active Directory` • `Group Policy` • `Backup Systems` • `Digital Learning Platforms` • `IT Support` • `Lab Maintenance`
 
 ---
 
