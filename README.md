@@ -13,6 +13,33 @@ Dedicated software engineer with over a decade of experience delivering scalable
 
 ## Experience
 
+### Senior Software Engineer
+
+**Vetsource – VS International (Remote)**
+*June 2025 – Present*
+
+* Lead development of services and integrations across **Java**, **Groovy**, and **Mule** applications running on **Google Cloud**.
+* Partner with product management and cross-functional teams to deliver customer-focused solutions for the veterinary industry.
+* Maintain and evolve distributed systems with an emphasis on performance, reliability, and clean code.
+* Enhance monitoring and observability through **Datadog**, **Graylog**, and **BigQuery**, improving system visibility and incident response.
+* Streamline development and operations by leveraging modern tooling for APIs, data workflows, and infrastructure automation.
+
+#### Technologies
+
+**Core Stack:** `Java` • `Groovy` • `Mule` • `Spring Boot` • `GCP` (BigQuery, Dataflow) • `PostgreSQL` • `MySQL`  
+
+**Build & CI/CD:** `Gradle` • `Maven` • `GitLab` • `CI/CD`  
+
+**APIs & Integration:** `REST` • `Swagger` • `gRPC` • `Jooq` • `Kong Gateway` • `Postman`  
+
+**Infrastructure & Ops:** `microk8s` • `ZooKeeper` • `OpenTofu` • `Rundeck` • `Graylog` • `Datadog`  
+
+**Front End & UI:** `React` • `Vite` • `MaterialUI` • `Mustache` • `XSLT` • `Adobe ActionScript`  
+
+**Testing:** `Jest` • `Playwright` • `Spock` • `React Testing Library`  
+
+**Search & Data Platforms:** `Apache Solr` • `Akeneo` • `OneTrust`  
+
 ### Senior Software Engineer – Front End
 
 **Optera, Boulder, CO (Remote)**
